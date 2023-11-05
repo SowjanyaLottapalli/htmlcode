@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Student Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Sowjanya Lottapalli</h1>
+        <p>Student at Jawaharlal Nehru Technological University Hyderabad</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello, my name is Sowjanya Lottapalli. I am a dedicated student at Jawaharlal Nehru Technological University Hyderabad pursuing a degree in Bachelor of Engineering. I am passionate about Electronics and Communications Engineering and actively involved in various extracurricular activities.</p>
+    </section>
+
+    <section id="accomplishments">
+        <h2>Accomplishments</h2>
+        <ul>
+            <li>Recipient of the Academic Excellence Award, Jawaharlal Nehru Technological University Hyderabad (2023)</li>
+            <li>Completed an internship at Company Bharat Intern (2023) - (Brief description of the role and achievements)</li>
+            <!-- Add more accomplishments as needed -->
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: sowjanyalottapalli@email.com</p>
+        <p>Phone: 123-456-7890</p>
+        <!-- Add more contact information as needed -->
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Sowjanya Lottapalli</p>
+    </footer>
+</body>
+</html>
